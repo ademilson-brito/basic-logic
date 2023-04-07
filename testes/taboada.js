@@ -21,8 +21,10 @@ if (compras > 10) {
 var café = 5;
 var leite = 9;
 
-var supermercado = café * leite;
+var supermercado = café - leite;
 
 if (supermercado > 10) {
     console.log("compra de mantimentos foi maior que 10");
+} else {
+    console.log("a compra foi menor que 10");
 }
