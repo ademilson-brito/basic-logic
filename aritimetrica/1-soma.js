@@ -29,7 +29,7 @@ casa = 10;
 var serviço = casa + 30;
 var num3 = 5;
 var num4 = 10;
-var resultado = num3 * num4;
+var resultado = num3 + num4;
 console.log(resultado);
 
 var precoSapato = 300;
