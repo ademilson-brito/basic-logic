@@ -14,4 +14,15 @@ var compras = tomate * cebola;
 
 if (compras > 10) {
     console.log("as compras do mes foi maior que 10");
+
+   
+}
+
+var café = 5;
+var leite = 9;
+
+var supermercado = café * leite;
+
+if (supermercado > 10) {
+    console.log("compra de mantimentos foi maior que 10");
 }
