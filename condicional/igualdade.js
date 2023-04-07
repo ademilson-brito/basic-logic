@@ -16,4 +16,5 @@ var numero4 = 15;
 // comparando igualdade com ==
 if (numero3 == 15) {
     console.log ("o valor do numero3 e igual a 15")
+    
 }
