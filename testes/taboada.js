@@ -28,3 +28,14 @@ if (supermercado > 10) {
 } else {
     console.log("a compra foi menor que 10");
 }
+
+var biscoito = 10;
+var champagne = 15;
+
+var compras = biscoito + champagne;
+
+if (compras > 20) {
+    console.log("compra de lanche foi maior que 20");
+} else {
+    console.log("a compra foi maior que 20");
+}
